@@ -12,7 +12,7 @@ Create an HTML file (index.html)
 Create a CSS file (style.css)
 
 ### STEP 3
-Create a JS file (script.css)
+Create a JS file (script.js)
 
 ### STEP 3
 Include a navigation bar with links to different sections.
